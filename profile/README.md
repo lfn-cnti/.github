@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-CNTi brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption
+Linux Foundation Networking's [Cloud Native Telecom Initiative (CNTi)](https://lfnetworking.org/cloud-native-telecom-initiative/) brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption
 
 CNTi focus areas:
 - [Best Practices](bestpractices/) (formerly known as "CNF WG") ([wiki](https://wiki.lfnetworking.org/display/LN/Best+Practices))
