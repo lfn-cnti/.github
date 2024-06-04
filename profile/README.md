@@ -13,6 +13,8 @@
 
 Linux Foundation Networking's [Cloud Native Telecom Initiative (CNTi)](https://lfnetworking.org/cloud-native-telecom-initiative/) brings telco networking and cloud native thought leaders together to advance cloud native networking confidence and adoption
 
+CNTi Charter:  https://github.com/lfn-cnti/cnti/blob/c93c0172376ac5ccb1e50f3f82132d1478ee2ef2/CNTi%20Technical%20Charter%205-31-2024.pdf
+
 CNTi focus areas:
 - [Best Practices](bestpractices/) (formerly known as "CNF WG") ([wiki](https://wiki.lfnetworking.org/display/LN/Best+Practices))
 - [Test Catalog and the test suite](https://github.com/cnti-testcatalog/testsuite) (formerly known as the "CNF Test Suite) ([wiki](https://wiki.lfnetworking.org/display/LN/Test+Catalog))
