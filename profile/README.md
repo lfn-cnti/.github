@@ -18,7 +18,7 @@ CNTi Charter:
 
 CNTi Focus Areas:
 - [Best Practices](bestpractices/) (formerly known as "CNF WG") ([wiki](https://wiki.lfnetworking.org/display/LN/Best+Practices))
-- [Test Catalog and the test suite](https://github.com/cnti-testcatalog/testsuite) (formerly known as the "CNF Test Suite) ([wiki](https://wiki.lfnetworking.org/display/LN/Test+Catalog))
+- [Test Catalog and the test suite](https://github.com/lfn-cnti/testsuite) (formerly known as the "CNF Test Suite) ([wiki](https://wiki.lfnetworking.org/display/LN/Test+Catalog))
 - [Certification](certification/) (formerly known as "CNCF CNF Certification") ([wiki](https://wiki.lfnetworking.org/display/LN/Certification))
 
 
