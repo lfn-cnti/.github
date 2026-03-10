@@ -17,9 +17,9 @@ CNTi Charter:
 - https://github.com/lfn-cnti/cnti/blob/c93c0172376ac5ccb1e50f3f82132d1478ee2ef2/CNTi%20Technical%20Charter%205-31-2024.pdf
 
 CNTi Focus Areas:
-- [Best Practices](bestpractices/) (formerly known as "CNF WG") ([wiki](https://wiki.lfnetworking.org/display/LN/Best+Practices))
+- [Best Practices](https://github.com/lfn-cnti/bestpractices/) (formerly known as "CNF WG") ([wiki](https://wiki.lfnetworking.org/display/LN/Best+Practices))
 - [Test Catalog and the test suite](https://github.com/lfn-cnti/testsuite) (formerly known as the "CNF Test Suite) ([wiki](https://wiki.lfnetworking.org/display/LN/Test+Catalog))
-- [Certification](certification/) (formerly known as "CNCF CNF Certification") ([wiki](https://wiki.lfnetworking.org/display/LN/Certification))
+- [Certification](https://github.com/lfn-cnti/certification/) (formerly known as "CNCF CNF Certification") ([wiki](https://wiki.lfnetworking.org/display/LN/Certification))
 
 
 ![image](https://github.com/lfn-cnti/.github/assets/26697/18cb123d-2914-41e1-a23f-b1f88ff58236)![image](https://github.com/lfn-cnti/.github/assets/26697/ebda7a76-b3e9-431f-9cf8-6612476c4407)![image](https://github.com/lfn-cnti/.github/assets/26697/555b0e29-2e7c-420d-a226-79da1f6a8f13)
